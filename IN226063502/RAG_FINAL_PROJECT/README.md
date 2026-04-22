@@ -1,13 +1,13 @@
 # RAG Customer Support Bot
 This is my internship project! It is a RAG-based AI support bot built with LangGraph and ChromaDB. It handles retrieving info from PDFs, and if it gets confused, it escalates to a human (HITL).
 
-## 📂 Docs
+##  Docs
 You can read about how I designed this in the `docs/` folder:
 - [High Level Design (HLD)](docs/HLD.md)
 - [Low Level Design (LLD)](docs/LLD.md)
 - [Technical Documentation](docs/TechnicalDocumentation.md)
 
-## 🚀 How to run it
+##  How to run it
 1. Install everything:
    ```bash
    pip install -r requirements.txt
